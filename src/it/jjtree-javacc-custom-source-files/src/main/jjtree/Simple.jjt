@@ -1,6 +1,6 @@
 PARSER_BEGIN(Simple)
 
-package org;
+package org1;
 
 class Simple {
   public static void main(String args[]) {

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/site"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/explicit-parameter-values"/>
+	<classpathentry kind="src" path="src/it/explicit-parameter-values/src/jjtree"/>
+	<classpathentry kind="src" path="src/it/explicit-parameter-values/src/javacc"/>
+	<classpathentry kind="src" path="src/it/javacc-absent-source-directory"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/javacc-basic"/>
+	<classpathentry kind="src" path="src/it/javacc-basic/src/main/javacc"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/javacc-custom-parser-files"/>
+	<classpathentry kind="src" path="src/it/javacc-custom-parser-files/src/main/javacc"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/javacc-custom-source-files"/>
+	<classpathentry kind="src" path="src/it/javacc-custom-source-files/src/main/javacc"/>
+	<classpathentry kind="src" path="src/it/javacc-custom-source-files/src/main/java"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/javacc-equal-input-output-directory"/>
+	<classpathentry kind="src" path="src/it/javacc-equal-input-output-directory/src/main/javacc"/>
+	<classpathentry excluding="src/" kind="src" path="src/it/javacc-grammar-in-source-root"/>
+	<classpathentry kind="src" path="src/it/javacc-grammar-in-source-root/src/main/java"/>
+	<classpathentry excluding="sour ces/" kind="src" path="src/it/javacc-path-with-spaces"/>
+	<classpathentry kind="src" path="src/it/javacc-path-with-spaces/sour ces/javacc"/>
+	<classpathentry excluding="module/" kind="src" path="src/it/javacc-reactor-build"/>
+  <classpathentry excluding="javacc/" kind="src" path="src/it/javacc-reactor-build/module/src"/>
+  <classpathentry kind="src" path="src/it/javacc-reactor-build/module/src/javacc"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/javacc-stale-detection"/>
+  <classpathentry kind="src" path="src/it/javacc-stale-detection/src/main/javacc"/>
+  <classpathentry kind="src" path="src/it/javacc-stale-detection/src/main/java-base"/>
+	<classpathentry kind="src" path="src/it/jjdoc-absent-source-directory"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjdoc-basic-site"/>
+  <classpathentry kind="src" path="src/it/jjdoc-basic-site/src/main/javacc"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjdoc-basic-standalone"/>
+  <classpathentry kind="src" path="src/it/jjdoc-basic-standalone/src/main/javacc"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjdoc-default-source-roots"/>
+  <classpathentry kind="src" path="src/it/jjdoc-default-source-roots/src/main/jtb"/>
+  <classpathentry kind="src" path="src/it/jjdoc-default-source-roots/src/main/jjtree"/>
+  <classpathentry kind="src" path="src/it/jjdoc-default-source-roots/src/main/javacc"/>
+  <classpathentry excluding="sour ces/" kind="src" path="src/it/jjdoc-path-with-spaces"/>
+  <classpathentry kind="src" path="src/it/jjdoc-path-with-spaces/sour ces/javacc"/>
+  <classpathentry excluding="module/" kind="src" path="src/it/jjdoc-reactor-build"/>
+  <classpathentry kind="src" path="src/it/jjdoc-reactor-build/module/src/javacc"/>
+	<classpathentry kind="src" path="src/it/jjtree-absent-source-directory"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-basic"/>
+  <classpathentry kind="src" path="src/it/jjtree-basic/src/main/jjtree"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-dynamic-node-package"/>
+  <classpathentry kind="src" path="src/it/jjtree-dynamic-node-package/src/main/jjtree"/>
+  <classpathentry kind="src" path="src/it/jjtree-dynamic-node-package/src/main/java"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-javacc-basic"/>
+  <classpathentry kind="src" path="src/it/jjtree-javacc-basic/src/main/jjtree"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-javacc-custom-source-files"/>
+  <classpathentry kind="src" path="src/it/jjtree-javacc-custom-source-files/src/main/jjtree"/>
+  <classpathentry kind="src" path="src/it/jjtree-javacc-custom-source-files/src/main/java"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-javacc-pipeline"/>
+  <classpathentry kind="src" path="src/it/jjtree-javacc-pipeline/src/main/jjtree"/>
+  <classpathentry excluding="sour ces/" kind="src" path="src/it/jjtree-path-with-spaces"/>
+  <classpathentry kind="src" path="src/it/jjtree-path-with-spaces/sour ces/jjtree"/>
+  <classpathentry excluding="module/" kind="src" path="src/it/jjtree-reactor-build"/>
+  <classpathentry kind="src" path="src/it/jjtree-reactor-build/module/src/jjtree"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jjtree-static-node-package"/>
+  <classpathentry kind="src" path="src/it/jjtree-static-node-package/src/main/jjtree"/>
+  <classpathentry kind="src" path="src/it/jjtree-static-node-package/src/main/java"/>
+	<classpathentry kind="src" path="src/it/jtb-absent-source-directory"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jtb-basic"/>
+  <classpathentry kind="src" path="src/it/jtb-basic/src/main/jtb"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jtb-dynamic-packages"/>
+  <classpathentry kind="src" path="src/it/jtb-dynamic-packages/src/main/jtb"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jtb-javacc-basic"/>
+  <classpathentry kind="src" path="src/it/jtb-javacc-basic/src/main/jtb"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jtb-javacc-custom-source-files"/>
+  <classpathentry kind="src" path="src/it/jtb-javacc-custom-source-files/src/main/jtb"/>
+  <classpathentry kind="src" path="src/it/jtb-javacc-custom-source-files/src/main/java"/>
+  <classpathentry excluding="sour ces/" kind="src" path="src/it/jtb-path-with-spaces"/>
+  <classpathentry kind="src" path="src/it/jtb-path-with-spaces/sour ces/jtb"/>
+  <classpathentry excluding="module/" kind="src" path="src/it/jtb-reactor-build"/>
+  <classpathentry excluding="src/" kind="src" path="src/it/jtb-reactor-build/module"/>
+  <classpathentry kind="src" path="src/it/jtb-reactor-build/module/src/jtb"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

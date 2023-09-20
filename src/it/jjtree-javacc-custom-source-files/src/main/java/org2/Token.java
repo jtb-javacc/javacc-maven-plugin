@@ -1,5 +1,5 @@
 /* CUSTOMIZED PARSER FILE - MUST NOT BE OVERWRITTEN BY JAVACC */
-package org;
+package org2;
 
 public class Token
 {
